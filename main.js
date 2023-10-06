@@ -23,7 +23,7 @@ form.addEventListener("submit", function(e){
         if (A === B){
             alert("Formulário Inválido - Números iguáis")
         }
-    else {
+    } else {
         alert("Digite números válidos")
     }}
-})
+)
